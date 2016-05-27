@@ -1,0 +1,23 @@
+# auto: true
+
+markdown: kramdown
+highlighter: rouge
+paginate: 8
+permalink: /:title
+encoding: UTF-8
+gems: [jekyll-paginate]
+
+title: 张浩
+url: http://yefeng22222.github.io
+feed: /atom.xml
+author_info: <a href="http://yefeng22222.github.io/">yefeng22222</a>
+
+myblog:
+  gavatar: images/2.jpg
+  gpname: yefeng
+  github: https://github.com/yefeng22222
+  email: mailto:zhanghaonever@163.com
+  coverimgs: []
+  postbgimg: []
+
+categories: [编程, books]
