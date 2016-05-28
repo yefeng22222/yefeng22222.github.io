@@ -36,6 +36,9 @@ git：
 
 github[模板](https://github.com/yefeng22222/yefeng22222.github.io)，参考的别人的文章，搭建的。这里说一下可能出现的bug  
 1. 安装jekyll，retext，git-all时，出现runit未配置的错误，网上查了好久最终的得以解决，ubuntu15.10自身bug。
+
+
+    git：
     //解决方法：  
     sudo apt-get purge runit  
     sudo apt-get purge git-all  
