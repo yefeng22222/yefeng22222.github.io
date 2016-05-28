@@ -47,7 +47,9 @@ github[模板](https://github.com/yefeng22222/yefeng22222.github.io)，参考的
     sudo apt update  
     sudo apt install git  
     sudo apt-get install jekyll  
-    sudo apt-get install retext  
+    sudo apt-get install retext
+
+
 2. 没啥好说的了，试着发表自己的第一编博文。p：正在试，不知能否成功？
 
 
