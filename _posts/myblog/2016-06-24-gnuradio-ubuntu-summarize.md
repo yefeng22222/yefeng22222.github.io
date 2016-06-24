@@ -2,8 +2,8 @@
 category: gnuradio
 published: true
 layout: post
-title: 『 读书笔记 』4月读书总结｜博文推荐
-description: the more you read, the more you think, better you'll be.
+title: 学习进程二
+description: to be a good man, and to do right things.
 ---
 
 
